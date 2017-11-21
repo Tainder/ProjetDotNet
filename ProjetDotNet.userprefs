@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{35DDF469-787E-41C4-87FF-99D4B4C98DF6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetDotNet/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientDotNet/Controllers/HomeController.cs">
     <Files>
-      <File FileName="ProjetDotNet/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="ProjetDotNet/Controllers/HomeController.cs" Line="3" Column="19" />
+      <File FileName="ClientDotNet/Controllers/HomeController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

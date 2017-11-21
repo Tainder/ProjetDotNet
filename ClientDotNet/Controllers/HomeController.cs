@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Mvc.Ajax;
 
 namespace ClientDotNet.Controllers
 {
@@ -10,19 +11,11 @@ namespace ClientDotNet.Controllers
     {
         public ActionResult Index()
         {
-            return View();
-        }
+            var mvcName = typeof(Controller).Assembly.GetName();
+            var isMono = Type.GetType("Mono.Runtime") != null;
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
+            ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
+            ViewData["Runtime"] = isMono ? "Mono" : ".NET";
 
             return View();
         }
