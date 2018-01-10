@@ -58,3 +58,37 @@
 /Users/jeffreydomenge/Desktop/DotNet/ProjetDotNet/bin/fr/System.Web.WebPages.resources.dll
 /Users/jeffreydomenge/Desktop/DotNet/ProjetDotNet/bin/fr/System.Web.WebPages.Razor.resources.dll
 /Users/jeffreydomenge/Desktop/DotNet/ProjetDotNet/bin/fr/System.Web.Mvc.resources.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\ProjetDotNet.dll.config
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\ProjetDotNet.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\ProjetDotNet.pdb
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\Newtonsoft.Json.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Net.Http.Formatting.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Helpers.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Http.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Http.WebHost.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Mvc.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Razor.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.WebPages.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.WebPages.Razor.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Razor.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Helpers.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.WebPages.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.WebPages.Razor.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Mvc.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Net.Http.Formatting.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Http.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\System.Web.Http.WebHost.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\obj\Debug\ProjetDotNet.csprojResolveAssemblyReference.cache
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\obj\Debug\ProjetDotNet.csproj.CoreCompileInputs.cache
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\obj\Debug\ProjetDotNet.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\obj\Debug\ProjetDotNet.pdb
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\zxing.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\zxing.presentation.dll
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\zxing.pdb
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\zxing.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\zxing.presentation.pdb
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\zxing.presentation.xml
+C:\Users\SkiiNox\Google Drive\Code\ProjetDotNet\ProjetDotNet\bin\Newtonsoft.Json.xml
